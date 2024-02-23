@@ -1,1 +1,2 @@
-It's me
+<center>Hi</center>
+I'm a beginner who loves to code.
